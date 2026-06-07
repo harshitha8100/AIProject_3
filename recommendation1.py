@@ -71,4 +71,4 @@ while True:
         print("\nThank you for using AI Recommendation System!")
         print("Project 3 Completed Successfully.")
         break
-    # AI Recommendation Project completed
+    # AI Recommendation System
