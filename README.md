@@ -38,7 +38,6 @@ This project is a Python-based Recommendation System developed as part of my int
 
 ## Author
 Harshitha
-Harshitha
 
 ## Acknowledgement
 Created as part of an internship project to improve development and AI skills.
