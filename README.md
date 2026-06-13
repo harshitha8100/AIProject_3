@@ -1,28 +1,43 @@
-# AIProject_3
+# Recommendation System
 
 ## Project Overview
-This project was developed as part of my AI internship program. It demonstrates practical implementation of programming and AI concepts.
+This project is a Python-based Recommendation System developed as part of my internship program. It suggests relevant items to users based on input data and recommendation algorithms.
 
 ## Features
-- User-friendly interface
+- Personalized recommendations
+- Data processing and analysis
+- Fast and efficient suggestions
+- User-friendly implementation
 - Clean and organized code
-- Efficient functionality
-- Easy to use and understand
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
 - Python
-- GitHub
+- Pandas
+- NumPy
+- Scikit-learn
+- Git & GitHub
 
 ## How to Run
-1. Download or clone the repository.
-2. Open the project files.
-3. Run the application.
-4. Explore the features.
+1. Clone or download the repository.
+2. Install the required libraries:
+   ```
+   pip install pandas numpy scikit-learn
+   ```
+3. Run the program:
+   ```
+   python recommendation.py
+   ```
+4. View the recommended results.
+
+## Learning Outcomes
+- Recommendation system concepts
+- Data analysis and preprocessing
+- Machine learning fundamentals
+- Python programming
+- GitHub project management
 
 ## Author
+Harshitha
 Harshitha
 
 ## Acknowledgement
